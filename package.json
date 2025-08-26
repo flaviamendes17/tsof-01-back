@@ -1,0 +1,18 @@
+{
+  "name": "tsof-01-back",
+  "version": "1.0.0",
+  "description": "Repositório da aula inicial de teste de software - backend",
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Testes",
+    "Jest"
+  ],
+  "license": "MIT",
+  "author": "Flavia Mendes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
